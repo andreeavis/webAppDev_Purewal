@@ -1,0 +1,62 @@
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+main {
+	/*width: 500px;
+	margin: auto;*/
+	background: lightgray;
+	/*overflow: auto;*/
+}
+
+nav {
+	/*uncomment the next line to get a border around the nav */
+	/*border: 3px solid black; */
+	/*width: 100px;*/
+	float: left;
+	/*padding: 10px;*/
+	background: darkgray;
+}
+
+/*nav p {
+	margin: 0;
+	padding: 0;
+}
+*/
+
+/*p.content {
+	margin: 0;  zero out the default margin  
+	float: right;
+	/*width: 360px;
+	padding: 10px;
+}*/
+
+footer {
+	background: gray;
+	clear: both; /* or we can just use 'clear:left' in this case */
+}
+
+h1 {
+	font-family: 'Denk One', sans-serif;
+	font-size: xx-large;
+}
+
+h2 {
+	font-size: x-large;
+	font-family: 'Hanalei Fill', cursive;
+}
+
+div.fonts {
+	font-size = 100%;
+
+}
+
+.important {
+	font-size: larger;
+}
+
+.onePointTwo {
+	font-size: 1.2em;
+}
